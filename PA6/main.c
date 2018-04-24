@@ -1,11 +1,3 @@
-/*
-Programmer: Chike Egwuatu
-Class: Cpts 121, Fall 2017, TA:Alexis G.
-Programmer Assignment: Pa5
-Date: October 24, 2017
-Description: This assignment is to construct the game battleship. Consturct arrays and loops
-and construct if statements.
-*/
 
 #include "header.h"
 
